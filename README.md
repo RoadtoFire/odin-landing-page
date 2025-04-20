@@ -2,13 +2,11 @@
 
 A responsive landing page created as part of [The Odin Project](https://www.theodinproject.com/) curriculum (Foundations course). This project demonstrates understanding of CSS Flexbox for layout design.
 
-![Landing Page Screenshot](/path/to/screenshot.png)
-*Note: Replace with an actual screenshot of your page once deployed*
+![Landing Page Screenshot](https://github.com/RoadtoFire/odin-landing-page/blob/main/images/Website_Screenshot.png)
 
 ## Live Demo
 
-[View the live demo](https://yourusername.github.io/odin-landing-page/) 
-*Note: Update with your actual GitHub Pages URL when deployed*
+[View the live demo](https://roadtofire.github.io/odin-landing-page/) 
 
 ## Features
 
